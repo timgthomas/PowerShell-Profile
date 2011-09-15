@@ -1,3 +1,5 @@
+Set-ExecutionPolicy Unrestricted
+
 Set-Alias edit "C:\Users\Tim\Documents\Synced Documents\Tools\Notepad++\notepad++.exe"
 Set-Alias grep Select-String;
 
