@@ -1,0 +1,7 @@
+[submodule "posh-git"]
+	path = posh-git
+	url = git://github.com/dahlbyk/posh-git
+	
+[submodule "posh-hg"]
+	path = posh-hg
+	url = git://github.com/JeremySkinner/posh-hg.git
